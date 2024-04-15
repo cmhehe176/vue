@@ -84,7 +84,7 @@ const removeTask =(index)=>{
 	align-items: center;
 	padding: 10px;
 	margin: 8px 0;
-	background-color: #231f1f;
+	background-color: #ece4e4;
 	border: 1px solid #ddd;
 	border-radius: 4px;
   }
